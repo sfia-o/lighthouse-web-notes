@@ -2,4 +2,4 @@
 
 ## Summary
 
-This repository is a archive of all of the notes taken by Sofia Oliveira for the Lighthouse Labs Web Development Bootcamp.s
+This repository is an archive of all of the notes taken by [Sofia](https://github.com/sfia-o) for the Lighthouse Labs Web Development Bootcamp.
